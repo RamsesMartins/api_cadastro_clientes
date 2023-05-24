@@ -79,7 +79,7 @@ api_cliente -->
 
 # Endpoints
 Método | Rotas | Função
---- | --- | ---
+--- | ------ | ---
 | **`GET`** | /clientes |Trará como resultado um array json com todos os clientes cadastrados|
 | **`GET`** | /clientes?id=x |Trará como resultado o _JSON_ com dados do cliente que tiver o cliente_id semelhante ao id passado|
 | **`POST`** | /clientes |Trará como resultado o _JSON_ com dados do cliente for cadastrado|
